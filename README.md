@@ -24,5 +24,4 @@ Dependencia adicional (OpenAPI):
 
 - Os atributos do modelo endereço foram gerados automaticamente
 pelo site [jsonschema2pojo.org](http://jsonschema2pojo.org)
-API usada no projeto - ViaCEP.
-    - [https://viacep.com.br](https://viacep.com.br/)
+- API usada no projeto - ViaCEP [https://viacep.com.br](https://viacep.com.br/)
